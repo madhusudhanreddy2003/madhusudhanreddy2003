@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Madhu Sudhan</h1>
+<h1>Hi 👋, I'm Muddula madhu Sudhan</h1>
 AI & ML Enthusiast | Innovating with Data, Learning, and Code
 
 <img align="right" alt="coding" width="300" height="300" src="https://png.pngtree.com/png-vector/20231214/ourmid/pngtree-young-programmer-writing-program-code-png-image_11353939.png">
