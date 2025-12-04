@@ -11,10 +11,10 @@ AI & ML Enthusiast | Innovating with Data, Learning, and Code
 <p align="left">
 
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)]([https://www.linkedin.com/](https://www.linkedin.com/in/madhu-sudhan-reddy-6a5124327/)) 
-[![GitHub]([https://img.icons8.com/material-outlined/48/000000/github.png](https://img.icons8.com/m_outlined/1200/github.jpg))]([https://github.com/](https://github.com/madhusudhanreddy2003)) 
-[![Portfolio](https://img.icons8.com/color/48/000000/domain.png)](https://madhusudhanreddy.netlify.app)
-
+[![LinkedIn Icon](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/madhu-sudhan-reddy-6a5124327/) 
+[![GitHub Icon](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/madhusudhanreddy2003) 
+[![Portfolio Icon](https://img.icons8.com/color/48/000000/domain.png)](https://madhusudhanreddy.netlify.app)
+_
 
 
 
