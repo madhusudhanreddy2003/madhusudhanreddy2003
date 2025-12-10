@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 align="left">Hi 👋, I'm Kethari Madhu Sudhan Reddy</h1>
+  <h1 align="left">Hi 👋, I'm Madhu Sudhan Reddy Kethari</h1>
   <h3 align="left">AI & ML Enthusiast | Innovating with Data</h3> <img align="right" alt="Coding GIF" width="400" height="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
   <p align="left">
    🌟 Passionate about leveraging technology to create innovative solutions.<br>
