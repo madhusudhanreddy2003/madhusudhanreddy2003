@@ -22,7 +22,7 @@
       <img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
   </p>
-  <h4>Let Connect!</h4>
+  <h4 align="left">Let Connect!</h4>
   <p align="left">
     <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80" alt="Handshake">
   </p>
