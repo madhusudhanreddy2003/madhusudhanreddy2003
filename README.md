@@ -24,7 +24,7 @@
   </p>
   <h4 align="left">Let Connect!</h4>
   <img align="left" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80" alt="Handshake">
-  <img align="left" width="200" height="200" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="lets code">
+  <img align="center" width="200" height="200" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="lets code">
 </div>
 
 
