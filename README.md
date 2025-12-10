@@ -6,6 +6,7 @@ AI & ML Enthusiast | Innovating with Data, Learning, and Code
 🌟 Passionate about leveraging technology to create innovative solutions and enhance user experiences.
 
 💻 Committed to collaboration and continuous learning in the ever-evolving tech landscape!
+<img align="left" alt="shake hand" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif">
 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
