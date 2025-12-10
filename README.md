@@ -12,10 +12,10 @@
   <p align="left">
     <a href="https://www.linkedin.com/in/madhu-sudhan-reddy-6a5124327/">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a> 
+    </a>  | 
     <a href="https://github.com/madhusudhanreddy2003">
       <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-    </a> 
+    </a>  | 
     <a href="https://madhusudhanreddy.netlify.app">
       <img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
