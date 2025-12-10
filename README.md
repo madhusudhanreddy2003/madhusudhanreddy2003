@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
   </p>
-<img align="center" width="200" height="200" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="lets code">
+<img align="left" width="200" height="200" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="lets code">
 </div>
 
 
