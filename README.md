@@ -7,7 +7,7 @@
    🌟 Passionate about leveraging technology to create innovative solutions.<br>
    💻 Committed to collaboration and continuous learning!
   </p>
-  <br>
+  
  <h4 align="left">Let Connect!</h4>
   <img align="left" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80" alt="Handshake">
   <p align="left">
