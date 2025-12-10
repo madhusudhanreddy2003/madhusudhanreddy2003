@@ -3,7 +3,7 @@
 
   <h1 align="left">Hi 👋, I'm Kethari Madhu Sudhan Reddy</h1>
   <h3 align="left">AI & ML Enthusiast | Innovating with Data</h3>
-
+  <img align="center" width="200" height="200" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="lets code">
   <p align="left">
    🌟 Passionate about leveraging technology to create innovative solutions.<br>
    💻 Committed to collaboration and continuous learning!
@@ -22,7 +22,7 @@
       <img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
   </p>
-  <img align="center" width="200" height="200" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="lets code">
+
 </div>
 
 
