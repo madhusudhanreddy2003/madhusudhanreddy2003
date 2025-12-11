@@ -22,8 +22,17 @@
   </p>
 <img align="left" width="200" height="200" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="lets code">
 </div>
+<script
+  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js"
+  type="module"
+></script>
 
-
+<dotlottie-wc
+  src="https://lottie.host/06e0a85b-c1c4-423d-ae44-8f0257aca014/hQ53yCtK5H.json"
+  style="width: 300px;height: 300px"
+  autoplay
+  loop
+></dotlottie-wc>
 
 
 
