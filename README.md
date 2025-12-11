@@ -23,7 +23,8 @@
 <img align="left" width="200" height="200" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="lets code">
 </div>
 <h3>Scroll below to View My Work</h3>
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/235c3013-c6fa-4b42-b92e-a3eb28b8f142" />
+![Arrow](https://github.com/user-attachments/assets/44be0047-e877-48db-a2c7-2f02eb833034)
+
 
 
 
