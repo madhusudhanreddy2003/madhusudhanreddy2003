@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
   </p>
-<h3 align="left">Scroll below to View My Work</h3>
+<h3 align="left">Scroll below to View My Pinned Repositories</h3>
 </div>
 <div>
 <img align="left" width="200" height="200" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="lets code">
